@@ -1,0 +1,55 @@
+*{margin: 0; padding: 0;}
+
+nav{
+	background-color: #272122;
+	text-align: end;
+	padding: 20px;
+	justify-content: space-between;
+}
+.a-menu{
+	color: #FFF;
+	text-decoration: none;
+	font: 1.3em 'Poppins', sans-serif;
+	padding: 10px;
+}
+img{
+	width: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+	background-color: #272122;
+	padding: 20px;
+}
+footer p{
+	text-align: center;
+	color: #FFF;
+	font-size: 1,5em;
+}
+footer a{
+	color: #FFF;
+}
+footer a:hover{
+	color: #3F51B5;
+}
