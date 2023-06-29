@@ -66,6 +66,25 @@ img{
 	text-align: center;
 }
 
+section{
+	background-color: #d5cccf;
+}
+ul{
+	margin-left: 100px;
+	list-style-type: circle;
+	font-size: 23px;
+	list-style-position: inside;
+}
+li{
+	font-size: 1em;
+	color: #4a4042;
+	font-family: 'Poppins', sens-serif;
+	line-height: 2em;
+}
+a{
+	color: #4a4042;
+}
+
 
 
 
