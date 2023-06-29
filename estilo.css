@@ -68,10 +68,12 @@ img{
 
 section{
 	background-color: #d5cccf;
+	box-shadow: 10px 10px 10px #473C3E;
 }
 ul{
 	margin-left: 100px;
-	list-style-type: circle;
+	list-style-type: disc;
+	box-shadow: 10px 10px 10px #473C3E;
 	font-size: 23px;
 	list-style-position: inside;
 }
@@ -80,6 +82,7 @@ li{
 	color: #4a4042;
 	font-family: 'Poppins', sens-serif;
 	line-height: 2em;
+	padding-bottom: 10px;
 }
 a{
 	color: #4a4042;
