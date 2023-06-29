@@ -8,7 +8,7 @@ nav{
 	justify-content: space-between;
 }
 h1{
-	background-color: #e4dedd;;
+	background-color: #f4f3f2;
 	color: #272122;
 	font-family: 'Kaushan Script', cursive;
 	font-size: 3em;
@@ -24,7 +24,7 @@ p{
 	line-height: 1.3em;
 }
 main{
-	background-color: #e4dedd;;
+	background-color: #f4f3f2;
 }
 .a-menu{
 	color: #FFF;
