@@ -8,10 +8,11 @@ nav{
 	justify-content: space-between;
 }
 h1{
-	color: #757575;
-	font-family: 'Poppins', sans-serif;
-	text-align: justify;
-	font-weight: 300;
+	background-color: #e4dedd;;
+	color: #272122;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 3em;
+	text-align: center;
 
 }
 p{
@@ -43,10 +44,11 @@ img{
 }
 
 .card{
-	background-color: #272122;;
+	background-color: #e4dedd;
 	width: 30%;
 	border-radius: 10px;
-	box-shadow: 10px 10px 10px grey;
+	box-shadow: 10px 10px 10px #473c3e;
+	margin: 20px;
 }
 .img-card{
 	width: 100%;
@@ -58,9 +60,9 @@ img{
 	
 }
 .text.card p{
-	font-size: 1em;
-	text-align: center
 	color: #FFF;
+	font-size: 1em;
+	text-align: center;
 }
 
 
