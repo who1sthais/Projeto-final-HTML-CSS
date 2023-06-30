@@ -29,6 +29,7 @@ p{
 	font-weight: 300;
 	line-height: 1.3em;
 	padding: 10px;
+	margin-left: 10px;
 
 }
 main{
@@ -120,6 +121,12 @@ a{
 #texto-final-link{
 	align-items: begin;
 	background-color: #f4f3f2;
+}
+.links{
+	display: flex;
+}
+.imagens-links{
+	width: 5%;
 }
 
 footer{
