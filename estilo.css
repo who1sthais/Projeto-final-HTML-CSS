@@ -14,6 +14,13 @@ h1{
 	font-size: 3em;
 	text-align: center;
 }
+h3{
+	background-color: #e4dedd;
+	color: #272122;
+	font-family: 'Poppins', sans-serif;
+	font-size: 1.5em;
+	text-align: left;
+}
 p{
 	color: #000;
 	font-family: 'Poppins', sans-serif;
@@ -67,7 +74,7 @@ img{
 }
 
 section{
-	background-color: #d5cccf;
+	background-color: #e4dedd;
 }
 ul{
 	margin-left: 100px;
@@ -84,36 +91,35 @@ li{
 }
 a{
 	color: #4a4042;
+
+}
+#tabela-valores{
+	background-color: #e4dedd;
+}
+.tabela{
+	display: flex;
+	padding: 10px;
+	padding-bottom: 10px;	
+	justify-content: center;
+}
+.imagens{
+	padding: 10px;
+	width: 100%;
+
+}
+.img-tabela{
+	border-radius: 10px;
+
 }
 
 #texto-final{
-	background-color: #d5cccf;
+	background-color: #e4dedd;
 	text-align: center;
 	padding: 20px;
 }
 #texto-final-link{
 	align-items: begin;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 footer{
 	background-color: #272122;
