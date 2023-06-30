@@ -127,6 +127,10 @@ a{
 }
 .imagens-links{
 	width: 5%;
+	display: flexbox;
+}
+.imagens-links ul li a{
+	width: 10%;
 }
 
 footer{
