@@ -130,25 +130,23 @@ a{
 	background-color: green;
 }
 .imagens-links{
-	width: 5%;
+	width: 20%;
+}
+.img-links{
+	width: 100%;
+	display: flex;	
 }
 .container-1{
-	width: 100%;
-	align-items: center;
-	justify-items: center;
+	width: 100%;	
 	margin: 20px;
 	padding: 20px;
-
 }
 .img-tabela{
 	width: 100%;
 	background-color: pink;
 }
-.container-1 .lnk ul li a{
-	width: 100%;
-	height: auto;
-	justify-content: space-between;
-	
+.lnk{
+	width: 80%;
 }
 
 footer{
