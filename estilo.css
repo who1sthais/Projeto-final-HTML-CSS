@@ -122,8 +122,12 @@ a{
 	align-items: begin;
 	background-color: #f4f3f2;
 }
-.links{
+.lnk{
 	display: flex;
+
+}
+.lnk ul{
+	background-color: green;
 }
 .imagens-links{
 	width: 20%;
@@ -141,6 +145,7 @@ a{
 }
 .img-tabela{
 	width: 100%;
+	background-color: pink;
 }
 .lnk{
 	width: 80%;
