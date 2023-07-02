@@ -126,11 +126,10 @@ a{
 	display: flex;
 
 }
-.lnk ul{
-	background-color: green;
-}
+
 .imagens-links{
 	width: 20%;
+	mix-blend-mode:multiply;
 }
 .img-links{
 	width: 100%;
@@ -145,7 +144,6 @@ a{
 }
 .img-tabela{
 	width: 100%;
-	background-color: rgb(177, 0, 29);
 }
 .lnk{
 	width: 80%;
