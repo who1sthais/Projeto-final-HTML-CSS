@@ -108,6 +108,10 @@ a{
 	width: 100%;
 
 }
+.imagens:hover{
+	box-shadow: 10px 10px 10px #473c3e;
+	border-radius: 10px;
+}
 .img-tabela{
 	border-radius: 10px;
 
