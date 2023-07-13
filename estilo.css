@@ -182,3 +182,126 @@ footer a:hover{
 /*css pagina imagens*/
 
 
+.card-1{
+	background-color: #e4dedd;
+	width: 30%;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #473c3e;
+	margin: 40px;
+}
+
+.card-1:hoover{
+	background-color: #e4dedd;
+	width: 30%;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #473c3e;
+	margin: 40px;
+}
+.card-1{
+	background-color: #e4dedd;
+	width: 30%;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #473c3e;
+	margin: 40px;
+}
+
+.card-1:hoover{
+	background-color: #e4dedd;
+	width: 30%;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #473c3e;
+	margin: 40px;
+}
+.card-3{
+	background-color: #e4dedd;
+	width: 30%;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #473c3e;
+	margin: 40px;
+}
+
+.card-3:hoover{
+	background-color: #e4dedd;
+	width: 30%;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #473c3e;
+	margin: 40px;
+}
+
+.tabela-1{
+	display: flex;
+	padding: 10px;
+	padding-bottom: 10px;	
+	justify-content: center;
+}
+.imagens-1{
+	padding: 10px;
+	width: 80%;
+	
+}
+
+.imagens-1 img{
+	-webkit-transition: -webkit-transform .5s ease;
+	transition: transform .5s ease;
+	width: 100%;
+	height: 100%;
+	 
+ }
+.imagens-1 img:hover{
+	padding: 20%;
+	-webkit-transform: scale(1.3);
+   transform: scale(1.3);
+	box-shadow: 15% 15% 15% #473c3e;
+	flex-wrap: wrap;
+	
+	z-index: 1;
+	
+	
+}
+.imagens-2{
+	padding: 10px;
+	width: 80%;
+	
+}
+
+.imagens-2 img{
+	-webkit-transition: -webkit-transform .5s ease;
+	transition: transform .5s ease;
+	width: 100%;
+	height: 100%;
+	 
+ }
+.imagens-2 img:hover{
+	padding-right: 50%;
+	-webkit-transform: scale(1.5);
+   transform: scale(1.5);
+	box-shadow: 15% 15% 15% #473c3e;
+	flex-wrap: wrap;
+	
+	z-index: 1;
+	
+	
+}
+.imagens-3{
+	padding: 10px;
+	width: 80%;
+	
+}
+.imagens-3 img{
+	-webkit-transition: -webkit-transform .5s ease;
+	transition: transform .5s ease;
+	width: 100%;
+	height: 100%;
+	 
+ }
+.imagens-3 img:hover{
+	
+	-webkit-transform: scale(1.3);
+   transform: scale(1.3);
+	box-shadow: 15% 15% 15% #473c3e;
+	flex-wrap: wrap;
+	
+	z-index: 1;
+	
+	
+}
