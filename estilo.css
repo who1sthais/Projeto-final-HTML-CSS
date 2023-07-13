@@ -197,7 +197,7 @@ footer a:hover{
 	box-shadow: 10px 10px 10px #473c3e;
 	margin: 40px;
 }
-.card-1{
+.card-2{
 	background-color: #e4dedd;
 	width: 30%;
 	border-radius: 10px;
@@ -205,7 +205,7 @@ footer a:hover{
 	margin: 40px;
 }
 
-.card-1:hoover{
+.card-2:hoover{
 	background-color: #e4dedd;
 	width: 30%;
 	border-radius: 10px;
